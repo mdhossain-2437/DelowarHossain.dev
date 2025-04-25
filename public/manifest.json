@@ -1,0 +1,16 @@
+{
+  "name": "MD Delowar Hossain | Web Developer",
+  "short_name": "Delowar",
+  "description": "Portfolio website of MD Delowar Hossain, a junior web developer specializing in creating clean, scalable, and intelligent web experiences.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#6d28d9",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+} 
