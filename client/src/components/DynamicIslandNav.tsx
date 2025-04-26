@@ -419,7 +419,7 @@ const DynamicIslandNav: React.FC = () => {
           
           {/* GitHub link */}
           <motion.a
-            href="https://github.com"
+            href="https://github.com/mdhossain-2437"
             target="_blank"
             rel="noopener noreferrer"
             className="w-8 h-8 bg-dark-700/40 hover:bg-dark-700/60 rounded-full flex items-center justify-center text-white transition-colors"

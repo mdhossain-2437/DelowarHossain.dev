@@ -38,3 +38,5 @@ vite.config.ts.*
 .cache
 .temp
 .tmp
+# Local Netlify folder
+.netlify

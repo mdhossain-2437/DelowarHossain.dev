@@ -23,7 +23,7 @@ const Footer: React.FC = () => {
             
             <div className="flex space-x-4">
               <a 
-                href="#" 
+                href="https://github.com/mdhossain-2437" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full bg-dark-700 hover:bg-primary/20 flex items-center justify-center transition-colors"
@@ -31,7 +31,7 @@ const Footer: React.FC = () => {
                 <Github className="w-5 h-5" />
               </a>
               <a 
-                href="#" 
+                href="https://www.linkedin.com/in/mdhossain2437" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full bg-dark-700 hover:bg-primary/20 flex items-center justify-center transition-colors"
@@ -39,7 +39,7 @@ const Footer: React.FC = () => {
                 <Linkedin className="w-5 h-5" />
               </a>
               <a 
-                href="#" 
+                href="https://x.com/mdhossain2437" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full bg-dark-700 hover:bg-primary/20 flex items-center justify-center transition-colors"

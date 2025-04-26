@@ -131,7 +131,7 @@ const About: React.FC = () => {
                 <div className="relative">
                   <div className="absolute inset-0 bg-gradient-to-tr from-primary to-secondary opacity-30 rounded-2xl blur-2xl"></div>
                   <img 
-                    src="https://source.unsplash.com/user/erondu/400x500?portrait,professional"
+                    src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=500&fit=crop&q=80"
                     alt="Delowar Hossain" 
                     className="w-60 h-60 object-cover rounded-2xl relative z-10"
                   />

@@ -42,8 +42,8 @@ A modern, responsive portfolio website built with React, TypeScript, and Tailwin
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mdhossain-2437/DevAiPortfolio.git
-cd DevAiPortfolio
+git clone https://github.com/mdhossain-2437/DelowarHossain.dev.git
+cd DelowarHossain.dev
 ```
 
 2. Install dependencies:
@@ -155,8 +155,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Delowar Hossain
 
-- GitHub: [github.com/mdhossain-2437](https://github.com/mdhossain-2437)
-- Twitter: [x.com/mdhossain2437](https://x.com/mdhossain2437)
-- LinkedIn: [linkedin.com/in/mdhossain2437](https://www.linkedin.com/in/mdhossain2437)
+- GitHub: <a href="https://github.com/mdhossain-2437" target="_blank" rel="noopener noreferrer">github.com/mdhossain-2437</a>
+- Twitter: <a href="https://x.com/mdhossain2437" target="_blank" rel="noopener noreferrer">x.com/mdhossain2437</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/mdhossain2437" target="_blank" rel="noopener noreferrer">linkedin.com/in/mdhossain2437</a>
 
-Project Link: [https://github.com/mdhossain-2437/DevAiPortfolio](https://github.com/mdhossain-2437/DevAiPortfolio) 
+Project Link: <a href="https://github.com/mdhossain-2437/DelowarHossain.dev" target="_blank" rel="noopener noreferrer">https://github.com/mdhossain-2437/DelowarHossain.dev</a> 
